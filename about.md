@@ -1,14 +1,14 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
+title: About me
+description: I am a full stack software developer for an aerospace manufacturer and also a student. Previously, I worked in the healthcare space as a Physical Therapist Assistant. I enjoy learning and being creative.
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+I like to share my thoughts and opinions on topics that resonate with me. My goal is to post a new article every Sunday. If you enjoy any of my content or have any advice as to how I can improve the site, feel free to send me an email at JonathanShrek@gmail.com.
 
 ### Features
 * flexible, uses max-width for responsive goodness

@@ -1,20 +1,19 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            Jonathan Shreckengost
+tagline:          Software Developer
+description:      Personal site for projects and blogging.
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Jonathan Shreckengost
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            Software Developer
+  email:          JonathanShrek@gmail.com
+  twitter:        jonathanshrek
+  github:         jonathanshrek
+  #instagram:      ctrunsthis
+  #dribbble:       coletownsend
+  #disqus:         balzac
+  location:       New Hampshire
   # Plug in your disqus shortname!
 
 tools:
@@ -31,11 +30,11 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/JonathanShrek
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
+  #- title: Cole Who?
+    #url: http://coletownsend.com
+    #external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
