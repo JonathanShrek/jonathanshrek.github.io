@@ -28,4 +28,4 @@ Feel free to checkout my [github](https://github.com/JonathanShrek) page to see 
 * This site you are currently using (HTML/CSS/Markdown)
 
 ### Resume
-A copy of my resume can be obtained [here]({{ site.url}}/assets/pdf/Resume.pdf).
+A copy of my resume can be obtained [here]({{ site.url}}/assets/pdf/websiteResume.pdf).

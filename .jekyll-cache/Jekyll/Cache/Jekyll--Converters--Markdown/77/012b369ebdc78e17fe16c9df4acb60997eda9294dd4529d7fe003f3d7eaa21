@@ -1,14 +1,0 @@
-I"<p>I like to share my thoughts and opinions on topics that resonate with me. My goal is to post a new article every Sunday. If you enjoy any of my content or have any advice as to how I can improve the site, feel free to send me an email at JonathanShrek@gmail.com.</p>
-
-<h3 id="skills">Skills</h3>
-<ul>
-  <li>Python</li>
-  <li>VB.Net</li>
-  <li>SQL</li>
-  <li>Java</li>
-  <li>C++</li>
-</ul>
-
-<h3 id="acknowledgements">Acknowledgements</h3>
-<p>I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took <a href="http://twitter.com/mmistakes">Michael Rose</a>’s theme <a href="http://mmistakes.github.io/minimal-mistakes/">Minimal Mistakes</a>. Having a prebuilt archive and the YAML front-matter already set up was a great help.</p>
-:ET
