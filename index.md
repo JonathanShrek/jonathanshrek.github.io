@@ -16,6 +16,7 @@ Feel free to checkout my [github](https://github.com/JonathanShrek) page to see 
 * VB.Net
 * SQL
 * Java
+* Bash
 * C++
 
 ### Projects
