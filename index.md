@@ -1,6 +1,7 @@
 ---
 layout: post-no-feature #page
 title: "About me"
+description: I am a full stack software developer for an aerospace manufacturer and also a student. Previously, I worked in the healthcare space as a Physical Therapist Assistant. I enjoy learning and being creative.
 tags: [Jekyll, theme, responsive, blog, template]
 #image:
   #feature: typewriter.jpg
