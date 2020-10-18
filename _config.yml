@@ -30,9 +30,11 @@ opengraph:
 links:
   - title: Blog
     url: /articles
-  - title: Github
-    url: https://github.com/JonathanShrek
-    external: true
+  #- title: Github
+    #url: https://github.com/JonathanShrek
+    #external: true
+  - title: Resume
+    url: /assets/pdf/websiteResume.pdf
   #- title: Cole Who?
     #url: http://coletownsend.com
     #external: true

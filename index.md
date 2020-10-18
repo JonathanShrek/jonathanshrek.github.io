@@ -24,6 +24,3 @@ Feel free to checkout my [github](https://github.com/JonathanShrek) page to see 
 * Instagram bot (python)
 * Various scalable applications to increase productivity in the manufacturing process (VB.Net/SQL)
 * This site you are currently using (HTML/CSS/Markdown)
-
-### Resume
-A copy of my resume can be obtained [here]({{ site.url}}/assets/pdf/websiteResume.pdf).
