@@ -153,7 +153,7 @@ input {
 #bump {
     min-height: 100%;
     height: auto;
-    margin: 0 auto;
+    margin: 0 auto -$footerHeight;
 }
 
 .wrap {
@@ -634,6 +634,7 @@ footer {
         width: 100%;
         position: absolute;
         bottom: 8px;
+        //bottom: $footerHeight/4;
         font-family: $sans;
         text-transform: uppercase;
         color: transparentize($white, .9);
