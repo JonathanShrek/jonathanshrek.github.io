@@ -25,3 +25,8 @@ Nobody will ever be you and that alone makes you perfect.
 Its okay to want better in life and to push yourself, but do so in moderation. If you feel you are starting to doubt your accomplishments, no matter how big or small, then you need to take a step back and reflect. You are ahead of where you were yesterday and thats all that matters.
 
 >“I seek strength, not to be greater than other, but to fight my greatest enemy, the doubts within myself" ― P.C. Cast
+
+## Articles that I recommend
+* [Why Trying to Be Perfect Won’t Help You Achieve Your Goals (And What Will)](https://jamesclear.com/repetitions)
+* [You're okay](https://markmanson.net/youre-okay)
+* [How to Overcome Perfectionism?](https://medium.com/express-yourself/how-to-overcome-perfectionism-cc02ed093b78)
