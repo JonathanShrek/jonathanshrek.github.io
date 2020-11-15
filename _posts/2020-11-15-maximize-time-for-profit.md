@@ -24,4 +24,4 @@ After you are able to demonstrate that you understand the basics of credit and y
 
 Its critical to ensure that you have savings to fall back on in case of an emergency, also called a nest egg. A nest egg allows you to sleep comfortably at night knowing that you can handle whatever tomorrow throws at you. The amount of your nest egg depends on a variety of factors, but most agree between 6-12 months of expenses. If you have kids they say to add 3 months to your existing nest egg.
 
-By leveraging the time that you have while you are young you can maximize the income potential of your future. Try to avoid falling into unnecessary time sinks that do not add value to your life. If you make good financial decisions while you are young you will be setting yourself up for success in the future.
+By leveraging the time that you have while you are young, you can maximize the income potential of your future. Try to avoid falling into unnecessary time sinks that do not add value to your life. If you make good financial decisions while you are young you will be setting yourself up for success in the future.
