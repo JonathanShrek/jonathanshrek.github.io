@@ -1,4 +1,4 @@
-If you are reading this right now I want you to realize you are rich beyond your wildest dreams. Let me clarify. In this life you are given a finite amount of time. The value of your time is determined by you and you alone. If you value your time then you are more likely to make the most of it.
+If you are reading this right now I want you to realize you are rich beyond your wildest dreams. Let me clarify. In this life you are given a finite amount of time. The value of your time is determined by you and you alone. If you value your time then you are more likely to make the most of it meaning your earning potential is as high as you can dream.
 
 College is a goal for a lot of young people and can be a great investment into yourself and your future career, but if you are not careful you could end up in debt for a very long time. I have personally seen young adults pressured into going to big, expensive schools by their parents, other adults, and even their friends. If your parents saved up a college fund for you as you were growing up then this might be an option, but if not you should be very careful about not falling into this trap.
 
